@@ -1,7 +1,7 @@
 Topics,Level,Question,Options,Answer
 Datatypes,Easy,What is the numerical range of a char data type in Java?,"[ -128 to 127, 0 to 256, 0 to 32767, 0 to 65535]",0 to 65535
 Datatypes,Easy,What is the range of byte data type in Java?,"[ -128 to 127 , -32768 to 32767,  -2147483648 to 2147483647, None of the mentioned]",-128 to 127
-Datatypes,Easy,"An expression involving byte, int, and literal numbers is promoted to which of these?","[ int, long, byte, float]",int
+Datatypes,Easy,"An expression involving byte, int, and literal numbers is promoted to which of these?","[int, long, byte, float]",int
 Datatypes,Easy,Which of these coding types is used for data type characters in Java?,"[ ASCII, ISO-LATIN-1, UNICODE, None of the mentioned]",ASCII
 Datatypes,Easy,Which one is a valid declaration of a boolean?,"[boolean b1 = 1;, boolean b2 = ‘false’;, boolean b3 = false;, boolean b4 = ‘true’]",boolean b3 = false;
 Datatypes,Medium,What is the order of variables in Enum?,"[Ascending order, Descending order, Random order, Depends on the order() method]",Ascending order
